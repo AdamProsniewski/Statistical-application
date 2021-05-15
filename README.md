@@ -1,5 +1,5 @@
 # Statistical-application
-> This is a simple statistical application written in c# as an as
+> This is a simple statistical application written in c# as an assignment for my university
 
 ## Table of Contents
 * [General Info](#general-information)
