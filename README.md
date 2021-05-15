@@ -24,9 +24,9 @@
 
 ## Features
 List the ready features here:
-- Generating a number series of set lenght
+- Generating a number series of a set lenght
 - 3 types of number sorting
-- Locating the position of any number number in the series
+- Locating the position of any number in the series
 - Calculating the average
 - Calculating the median
 - Calculating the dominant
