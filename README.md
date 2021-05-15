@@ -32,7 +32,7 @@ List the ready features here:
 - Calculating the dominant
 
 
-## Screenshots
+## Screenshot
 ![Example screenshot](./screen1.png)
 
 
